@@ -1,5 +1,5 @@
 
-macOS 10.15.15 - OpenCore 0.5.9
+macOS 10.15.5 - OpenCore 0.5.9
 
 # Hardware
 
