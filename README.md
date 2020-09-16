@@ -5,7 +5,7 @@ macOS 10.15.5 - OpenCore 0.5.9
 
 - ASRock B360M/ac-itx
 - Intel i7 9700
-- AMD Radeon Pro WX 4100 (cheapest and smallest OOB working GPU with 4x DP1.4 btw)
+- AMD Radeon Pro WX 5100
 - 32GB DDR4-2400 RAM
 - 1TB Samsung 970 EVO NVMe M.2 SSD
 - Native Wifi&BT via BCM94360CD (works OOB using a NGFF Adapter)
