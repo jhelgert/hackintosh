@@ -27,10 +27,6 @@ See [here](https://dortania.github.io/OpenCore-Desktop-Guide/config.plist/coffee
 - (Deep) Sleep
 - Wake on Lan (WOL)
 
-# What doesn't work so far
-
-Haven't noticed anything up to now.
-
 # How to use?
 
 You only need to complete the `PlatformInfo/Generic` part inside the
