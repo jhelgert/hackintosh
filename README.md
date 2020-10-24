@@ -18,11 +18,14 @@ See [here](https://dortania.github.io/OpenCore-Desktop-Guide/config.plist/coffee
 # What works
 
 - Audio
-- All USBPorts (inclusive the internal ones)
+- All external and internal USB Ports 
 - HEVC Hardware Decoding
 - DRM (Amazon, Netflix, AppleTV+)
-- Facetime/iMessage
+- Facetime
+- iMessage
+- Airdrop
 - (Deep) Sleep
+- Wake on Lan (WOL)
 
 # What doesn't work so far
 
